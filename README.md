@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Veljko003/qr-code-component](https://github.com/Veljko003/qr-code-component)
+- Live Site URL: [https://qr-component.surge.sh/](https://qr-component.surge.sh/)
 
 ## My process
 
@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Veljko Spasic](https://veljkospasic.rf.gd)
+- Website - [Veljko Spasic](https://veljko-spasic.rf.gd)
 - Frontend Mentor - [@TheVSDev](https://www.frontendmentor.io/profile/TheVSDev)
 - Github:
      - [Veljko003](https://github.com/Veljko003)
